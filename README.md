@@ -67,6 +67,10 @@ A list of indie game developers who make devlogs and other related videos on you
 - https://www.youtube.com/@RujiKtheComatose
 - https://www.youtube.com/@Andre_Sargeant
 - https://www.youtube.com/@LakierosJordy
+- https://www.youtube.com/@DaFluffyPotato
+- https://www.youtube.com/@RugbugRedfern
+- https://www.youtube.com/@MashUpGames
+- https://www.youtube.com/@moonleafstudio
 
 ## Contributing
 If you found this list and want to improve it / add or remove creators, just open a pull request and I will try to resolve it as fast as I can. 
