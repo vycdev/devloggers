@@ -71,6 +71,7 @@ A list of indie game developers who make devlogs and other related videos on you
 - https://www.youtube.com/@RugbugRedfern
 - https://www.youtube.com/@MashUpGames
 - https://www.youtube.com/@moonleafstudio
+- https://www.youtube.com/@AQGamedev
 
 ## Contributing
 If you found this list and want to improve it / add or remove creators, just open a pull request and I will try to resolve it as fast as I can. 
