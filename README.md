@@ -58,6 +58,7 @@ A list of indie game developers who make devlogs and other related videos on you
 - https://www.youtube.com/@stayathomedev
 - https://www.youtube.com/@batysphera
 - https://www.youtube.com/@DanielLochner
+- https://www.youtube.com/@bitbraindev
 - https://www.youtube.com/@CourageousAce
 - https://www.youtube.com/@transmattergamedev
 - https://www.youtube.com/@sigmoiddev
